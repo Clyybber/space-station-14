@@ -101,6 +101,7 @@ namespace Content.Shared.NetIDs
         public const uint SINGULARITY_DISTORTION = 1091;
         public const uint GRAVITY = 1092;
         public const uint STANDING_STATE = 1093;
+        public const uint MAGIC_GRAVITY = 1094;
 
         // Net IDs for integration tests.
         public const uint PREDICTION_TEST = 10001;
